@@ -8,5 +8,5 @@ Diamond price prediction application with machine learning and GUI design with P
 - PyQt5
 - Scikit-Learn
 
-**GUI design tool**: Qt Designer \n
+**GUI design tool**: Qt Designer - 
 **Python Version**: Python 3.8.8
